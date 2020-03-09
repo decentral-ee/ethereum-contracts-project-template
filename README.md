@@ -1,5 +1,7 @@
 # Ethereum smart contracts project template
 
+![CI](https://github.com/decentral-ee/ethereum-contracts-project-template/workflows/CI/badge.svg)
+
 ## Setup
 
 ```
