@@ -4,7 +4,7 @@
     "description": "Superfluid smart contracts.",
     "license": "MIT",
     "dependencies": {
-        "@openzeppelin/contracts": "2.5.0"
+        "@openzeppelin/contracts": "4.4.2"
     },
     "peerDependencies": {
         "@truffle/contract": "4.1.12"
